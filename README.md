@@ -1,4 +1,4 @@
-HeroloCinema
+#HeroloCinema
 You can edit any movie, any property you wish, you can add a new movie and delete movies. on refresh all changes you made will be lost.
 
 if you add a new movie a random picture will be assigned to your movie.
